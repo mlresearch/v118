@@ -1,0 +1,62 @@
+---
+booktitle: "Proceedings of The 2nd Symposium on\r Advances in Approximate Bayesian
+  Inference"
+shortname: AABI
+volume: 118
+year: '2019'
+start: 2019-12-08
+end: 2019-12-08
+published: 2020-02-03
+url: http://proceedings.mlr.press
+location: Vancouver, BC, Canada
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: AABI-2019
+month: 0
+cycles: false
+bibtex_editor: Zhang, Cheng and Ruiz, Francisco and Bui, Thang and Dieng, Adji Bousso
+  and Liang, Dawen
+editor:
+- given: Cheng
+  family: Zhang
+- given: Francisco
+  family: Ruiz
+- given: Thang
+  family: Bui
+- given: Adji Bousso
+  family: Dieng
+- given: Dawen
+  family: Liang
+title: Proceedings of Machine Learning Research
+description: "Proceedings of The 2nd Symposium on\r Advances in Approximate Bayesian
+  Inference on 08 December 2019\n\nPublished as Volume 118 by the Proceedings of Machine
+  Learning Research on 03 February 2020.\n\nVolume Edited by:\n  Cheng Zhang\n  Francisco
+  Ruiz\n  Thang Bui\n  Adji Bousso Dieng\n  Dawen Liang\n\nSeries Editors:\n  Neil
+  D. Lawrence\n  Mark Reid\n"
+date_str: '08 Dec'
+baseurl: "/v118"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v118
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: "Symposium on\r Advances in Approximate Bayesian Inference"
+  url: 
+  location: ''
+  dates:
+  - 2019-12-08
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v118/aabi19.bib
