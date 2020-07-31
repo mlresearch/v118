@@ -1,12 +1,12 @@
 ---
-title: "MMD-Bayes: Robust Bayesian Estimation via Maximum\r Mean Discrepancy"
-abstract: "In some misspeci\fed settings, the posterior distribution in Bayesian statistics
-  may lead to inconsistent estimates. To x this issue, it has been suggested to replace
+title: "MMD-Bayes: Robust Bayesian Estimation via Maximum Mean Discrepancy"
+abstract: "In some misspecified settings, the posterior distribution in Bayesian statistics
+  may lead to inconsistent estimates. To fix this issue, it has been suggested to replace
   the likelihood by a pseudo-likelihood, that is the exponential of a loss function
   enjoying suitable robustness properties. In this paper, we build a pseudo-likelihood
-  based on the Maximum Mean\r Discrepancy, dened via an embedding of probability distributions
+  based on the Maximum Mean Discrepancy, dened via an embedding of probability distributions
   into a reproducing kernel Hilbert space. We show that this MMD-Bayes posterior is
-  consistent and robust to\r model misspecication. As the posterior obtained in this
+  consistent and robust to model misspecication. As the posterior obtained in this
   way might be intractable, we also prove that reasonable variational approximations
   of this posterior enjoy the same properties. We provide details on a stochastic
   gradient algorithm to compute these variational approximations. Numerical simulations
