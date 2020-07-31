@@ -11,6 +11,7 @@ url: http://proceedings.mlr.press
 location: Vancouver, BC, Canada
 layout: proceedings
 series: Proceedings of Machine Learning Research
+issn: 2640-3498
 id: AABI-2019
 month: 0
 cycles: false
@@ -38,8 +39,11 @@ baseurl: "/v118"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+plugins:
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
 permalink: "/:title.html"
-github:
+ghub:
   edit: true
   repository: v118
 display:
@@ -58,5 +62,6 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
-# Auto generated from /Users/pb593/Documents/Coding/mlresearch/v118/aabi19.bib
+# Original source:  /Users/neil/mlresearch/bibtex.bib
